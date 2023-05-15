@@ -1,5 +1,6 @@
 # CabbagePlugins
 A collection of my Cabbage plugins and other audio tools.
+There are some older versions for each plugin. I recommend downloading which ever has the latest version number.
 
 To install any component plugins, you must drop them in your computers component audio folder. To do this..
 
